@@ -16,7 +16,7 @@ Convert raw meeting transcripts into structured summaries and actionable insight
 - Schema validation with fallback
 
 ## How to Run
-python process_meeting.py data/input/meeting.txt
+AI_meeting_assistant_pipeline.ipynb data/input/meeting.txt
 
 ## Output
 - JSON summary
