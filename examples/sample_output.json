@@ -1,0 +1,20 @@
+{
+  "summary": "The meeting focused on the Q2 product roadmap and the mobile app release timeline. Due to pending backend load testing, the team decided to delay the release by two weeks. Customer feedback highlighted issues with the onboarding experience, prompting discussion on simplification. Responsibilities were assigned to address onboarding improvements and coordinate with the design team.",
+  "key_points": [
+    "Q2 product roadmap discussion",
+    "Mobile app release timeline affected by backend load testing",
+    "Customer feedback indicating onboarding issues",
+    "Need for onboarding simplification and possible tutorials",
+    "Coordination required with the design team"
+  ],
+  "decisions": [
+    "The mobile app release will be delayed by two weeks."
+  ],
+  "action_items": [
+    {
+      "task": "take ownership of improving the onboarding flow",
+      "owner": "Rahul",
+      "deadline": null
+    }
+  ]
+}
