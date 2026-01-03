@@ -1,0 +1,25 @@
+[00:00:03] John: Uh, okay, let's get started. So yeah, today's meeting is mainly about the Q2 product roadmap.
+
+[00:00:12] Sarah: Right, um, we need to finalize the timeline for the mobile app release. Engineering had some delays last sprint.
+
+[00:00:25] Rahul: Yeah, so the backend APIs are mostly done, but we still need about two weeks for load testing. Uh, otherwise we risk performance issues.
+
+[00:00:42] John: Okay, so tentatively, can we push the release by two weeks then?
+
+[00:00:47] Sarah: That makes sense. I think marketing can adjust the campaign dates accordingly.
+
+[00:01:02] John: Cool. Let’s do that. Also, um, customer feedback mentioned issues with onboarding.
+
+[00:01:10] Rahul: Yeah, onboarding flow is a bit confusing. We should probably simplify it.
+
+[00:01:18] Sarah: Agreed. Maybe we can add a short tutorial or tooltips.
+
+[00:01:30] John: Alright, Rahul, can you take ownership of improving the onboarding flow?
+
+[00:01:35] Rahul: Sure, I’ll look into it. I think I can have a proposal ready by next Friday.
+
+[00:01:45] Sarah: Also, do we need to sync with design on this?
+
+[00:01:48] John: Yes, good point. I’ll reach out to the design team.
+
+[00:01:55] John: Okay, I think that’s it for today. Thanks everyone.
