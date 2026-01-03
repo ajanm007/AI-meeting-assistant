@@ -1,0 +1,37 @@
+======================================================================
+MEETING ANALYSIS REPORT
+Generated: 2026-01-03 08:42:48
+======================================================================
+
+SUMMARY:
+----------------------------------------------------------------------
+The meeting focused on the Q2 product roadmap and the mobile app release timeline. Due to pending backend load testing, the team decided to delay the release by two weeks. Customer feedback highlighted issues with the onboarding experience, prompting discussion on simplification. Responsibilities were assigned to address onboarding improvements and coordinate with the design team.
+
+KEY DISCUSSION POINTS:
+----------------------------------------------------------------------
+1. Q2 product roadmap discussion
+2. Mobile app release timeline affected by backend load testing
+3. Customer feedback indicating onboarding issues
+4. Need for onboarding simplification and possible tutorials
+5. Coordination required with the design team
+
+DECISIONS MADE:
+----------------------------------------------------------------------
+1. The mobile app release will be delayed by two weeks.
+
+ACTION ITEMS:
+----------------------------------------------------------------------
+
+1. take ownership of improving the onboarding flow
+   Owner: Rahul
+   Deadline: No deadline
+
+======================================================================
+STATISTICS:
+----------------------------------------------------------------------
+Key Points: 5
+Decisions: 1
+Action Items: 1
+Unassigned Actions: 0
+Missing Deadlines: 1
+======================================================================
