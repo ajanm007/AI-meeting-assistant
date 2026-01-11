@@ -3,7 +3,7 @@
 [▶️ Open in Google Colab]([https://colab.research.google.com/drive/1mAdLf_qWpcvaaGO9HJrP2V4lg9gF47yB?usp=sharing])
 
 ## Description
-<description text>
+An AI-powered meeting assistant that converts raw, noisy meeting transcripts into structured summaries and actionable insights using an LLM. It handles long transcripts via chunking and map-reduce summarization, with prompt decomposition for reliable extraction.
 
 ## Problem Statement
 Convert raw meeting transcripts into structured summaries and actionable insights.
