@@ -1,6 +1,6 @@
 # AI Meeting Assistant
 
-[▶️ Open in Google Colab]([https://colab.research.google.com/...](https://colab.research.google.com/drive/1mAdLf_qWpcvaaGO9HJrP2V4lg9gF47yB?usp=sharing))
+[▶️ Open in Google Colab]([https://colab.research.google.com/drive/1mAdLf_qWpcvaaGO9HJrP2V4lg9gF47yB?usp=sharing])
 
 ## Description
 <description text>
